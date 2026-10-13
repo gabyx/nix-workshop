@@ -82,7 +82,7 @@ following approaches:
     --userns=keep-id \
     -v "$(pwd):/workspace" \
     -w /workspace \
-    ghcr.io/sdsc-ordes/nix-workshop:latest
+    ghcr.io/gabyx/nix-workshop:latest
   ```
 
   or
@@ -94,7 +94,7 @@ following approaches:
     --user root \
     -v "$(pwd):/workspace" \
     -w /workspace \
-    ghcr.io/sdsc-ordes/nix-workshop:latest
+    ghcr.io/gabyx/nix-workshop:latest
   ```
 
 - **Use the `devcontainer`** [
@@ -106,7 +106,7 @@ following approaches:
 
 ## Part 1 - Nix, Flakes & Nix DevShell
 
-[Check the slides here.](https://sdsc-ordes.github.io/technical-presentation/gh-pages/nix-workshop/part-1)
+[Check the slides here.](https://sdsc-ordes.github.io/technical-presentation-sdsc/gh-pages/nix-workshop/part-1)
 
 ## Part 2 - NixOS
 

@@ -1,3 +1,3 @@
-module github.com/sdsc-ordes/technical-presentation/src/presentations/part-1/assets/examples/go
+module github.com/gabyx/nix-workshop
 
 go 1.24
