@@ -6,10 +6,6 @@
     <br>
 </h1>
 
-> [!CAUTION]
->
-> This workshop is currently under development and is not yet complete.
-
 This workshop is structured in 2 parts
 
 - Part 1: Learn what a Nix DevShell is and how to extend it. It is designed to
@@ -25,6 +21,10 @@ This workshop is structured in 2 parts
   - Requires Part 1.
   - Configure and build a NixOS system.
   - Deploy it to a cloud VM.
+
+> [!CAUTION]
+>
+> Part 2 is currently under development and is not yet complete.
 
 <!-- prettier-ignore-start -->
 
